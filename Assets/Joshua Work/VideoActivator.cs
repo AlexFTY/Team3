@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class VideoActivator : MonoBehaviour
 {
-    public GameObject dancer;
+    //public GameObject dancer; this is the dancer object drag and drop place holder in UI inspector
 
     private bool isReady;
     private bool activated;
